@@ -1,6 +1,8 @@
 # Squarespace-Personal-Website
 
-<img src=""/>
+<img src="Squarespace Site 1.png" height="400"/>
+
+<img src="Squarespace Site 2.png" height="400"/>
 
 The [demo video]().
 
