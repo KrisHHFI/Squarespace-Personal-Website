@@ -1,8 +1,8 @@
 # Squarespace-Personal-Website
 
-<img src="Squarespace Site 1.png" height="400"/>
+<img src="Squarespace Site 1.png"/>
 
-<img src="Squarespace Site 2.png" height="400"/>
+<img src="Squarespace Site 2.png"/>
 
 ### About
 
