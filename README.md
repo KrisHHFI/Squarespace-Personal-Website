@@ -2,10 +2,7 @@
 
 ### About
 
-- In early 2017 I was studying photography in London, I published a Squarespace website as a personal portfolio.
-- I kept the site for 7 years until I deactivated it in early 2024.
-- I experimented with different content and styles.
-- The final version was a clear, consise and high-key. The screen shots below show the different pages.
+- Photo portfolio from 2017 to 2024.
 
 <details>
 <summary>My Site</summary>
